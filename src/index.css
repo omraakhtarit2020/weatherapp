@@ -1,3 +1,8 @@
+*{
+margin:0;
+padding:0
+}
+
 body {
   margin: 0;
   background: linear-gradient(to right ,#27033f,#480ca8,#62499c,#4361ee,#9cc8fa,#d3f5ff);
